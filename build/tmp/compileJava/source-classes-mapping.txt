@@ -1,0 +1,12 @@
+dedicnost/Triangle.java
+ dedicnost.Triangle
+dedicnost/Rectangle.java
+ dedicnost.Rectangle
+dedicnost/Circle.java
+ dedicnost.Circle
+dedicnost/ShapeParent.java
+ dedicnost.ShapeParent
+dedicnost/Square.java
+ dedicnost.Square
+dedicnost/Main.java
+ dedicnost.Main
